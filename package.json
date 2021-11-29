@@ -1,6 +1,6 @@
 {
 	"name": "@bryendaco/char2utf8",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Converts a symbol to UTF-8 code",
 	"main": "index.js",
 	"dependencies": {},
