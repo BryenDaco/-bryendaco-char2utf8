@@ -1,0 +1,26 @@
+{
+	"name": "@bryendaco/char2utf8",
+	"version": "1.0.0",
+	"description": "Converts a symbol to UTF-8 code",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"char2utf8",
+		"utf8",
+		"utf-8"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BryenDaco/-bryendaco-char2utf8.git"
+	},
+	"author": "Bryen Daco",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/BryenDaco/-bryendaco-char2utf8/issues"
+	},
+	"homepage": "https://github.com/BryenDaco/-bryendaco-char2utf8#readme"
+}
